@@ -1,0 +1,53 @@
+Passo 0 - Introdução
+Você é Moluscão dos Nove Dedos, um ex-metalúrgico aposentado que passou a vida inteira nas fábricas, nas greves e nas ruas, defendendo os direitos dos trabalhadores e sonhando com uma revolução socialista para transformar o país. Uma cicatriz profunda marca sua mão, onde deveria estar seu dedo mindinho – perdido em um acidente de trabalho que lhe rendeu um apelido e um ódio fervoroso pelas elites.
+
+Depois de décadas de luta, você finalmente alcança o poder com o apoio do povo, prometendo justiça social e igualdade. No início, seu governo promove grandes mudanças: políticas de redistribuição de renda, reforma agrária, educação e saúde para todos. Mas, à medida que o tempo passa, a ganância começa a crescer dentro de você. O luxo e a riqueza se tornam tentadores demais para resistir, e você se vê cada vez mais envolvido em esquemas de corrupção, desviando dinheiro público e enriquecendo à custa daqueles que jurou proteger.
+
+Sua transformação faz com que a economia entre em colapso. As dívidas do governo se acumulam, a inflação dispara, e o povo, antes seu aliado, começa a passar fome. As ruas que um dia ecoaram seu nome agora clamam por sua queda. A tensão cresce, e o país está à beira de uma guerra civil, com grupos organizados se levantando para tirar você do poder à força.
+
+Agora, em um momento de desespero, você encara uma escolha crucial: tentar recuperar a confiança do povo ou reforçar seu poder com medidas ainda mais autoritárias para garantir sua permanência.
+
+Botão 1: Você decide tentar reconquistar a confiança do povo, implementando uma série de reformas e confessando seus erros.
+Botão 2: Você opta por medidas autoritárias, aumentando a repressão e silenciando qualquer oposição.
+
+Passo 1 (Escolha do Botão 1)
+Você realiza uma coletiva de imprensa para reconhecer seus erros e prometer mudanças. A população, dividida entre a desconfiança e a esperança, observa atentamente seus próximos passos. Alguns líderes de movimentos sociais demonstram abertura ao diálogo, mas exigem ações concretas.
+
+Botão 3: Você propõe uma nova eleição para o governo, renunciando ao cargo em favor da transparência.
+Botão 4: Você convida líderes sociais para formar um conselho de governo e ajuda a implementar políticas que beneficiem a população.
+
+Passo 2 (Escolha do Botão 2)
+Em uma tentativa de manter seu controle, você institui uma polícia secreta e aumenta a repressão contra aqueles que se manifestam contra o governo. As prisões ficam abarrotadas, e a liberdade de expressão é drasticamente reduzida. Mas a resistência se intensifica, e líderes oposicionistas começam a planejar um golpe contra o regime.
+
+Botão 5: Você decreta estado de emergência, mobilizando o exército para conter os rebeldes com força total.
+Botão 6: Você decide fazer um acordo com um dos grupos oposicionistas, oferecendo-lhes parte do poder em troca de apoio.
+
+Passo 3 (Escolha do Botão 3)
+Você renuncia ao cargo, permitindo uma eleição democrática. Embora muitos ainda desconfiem de suas intenções, a população começa a acreditar na possibilidade de mudança. Um novo líder é eleito, e você tenta reconstruir sua imagem pública.
+
+Botão 9: O novo governo inicia reformas que ajudam a recuperar a economia e melhorar as condições de vida, e você é lembrado como alguém que reconheceu seus erros.
+Botão 10: O novo governo fracassa, e o caos retorna, deixando o país em uma situação ainda pior, com você responsabilizado pelo desastre.
+
+Passo 4 (Escolha do Botão 4 - GANHOU)
+Com a criação do conselho de governo, a população sente que há um caminho para reverter a crise. Com a ajuda de líderes sociais, o país começa a implementar políticas sustentáveis e de longo prazo, recuperando a economia aos poucos. Você consegue restaurar parte da confiança do povo e mantém um papel simbólico no governo, sendo lembrado como alguém que soube reconhecer e corrigir seus erros.
+
+Passo 5 (Escolha do Botão 5)
+O estado de emergência transforma o país em um verdadeiro campo de guerra. As ruas ficam dominadas por soldados e barricadas, e a violência se torna a norma. O país mergulha no caos, com inúmeros civis sofrendo as consequências.
+
+Botão 7: O exército consegue sufocar a rebelião, e você permanece no poder, mas à custa de uma sociedade traumatizada e destruída.
+Botão 8: A oposição, apoiada por forças internacionais, derruba seu governo, e você é preso e julgado por crimes contra o povo.
+
+Passo 6 (Escolha do Botão 6 - PERDEU)
+A tentativa de acordo com a oposição se torna um desastre. O grupo oposicionista usa a trégua para reorganizar suas forças, e logo uma revolta armada toma conta do país. Você é deposto e exilado, e sua imagem se torna um símbolo de traição e fracasso.
+
+Passo 7 (Escolha do Botão 7 - GANHOU)
+Ao sufocar a rebelião, você permanece no poder, mas o país se encontra devastado. A economia está em ruínas, e o sofrimento da população é evidente. Sua liderança é marcada pela repressão, e, embora tenha mantido seu posto, sua imagem fica marcada como um ditador que destruiu o próprio país.
+
+Passo 8 - Volta para o Passo 1
+Após uma tentativa fracassada de consolidar seu poder, você retorna à posição inicial, enfrentando novamente a escolha entre tentar reformar o governo ou seguir por um caminho de opressão.
+
+Passo 9 - GANHOU
+O novo governo consegue colocar o país de volta nos trilhos, com investimentos em educação e saúde. Você é lembrado como alguém que, apesar dos erros, tomou a decisão correta ao renunciar. Sua imagem se reabilita, e você é visto como um exemplo de redenção.
+
+Passo 10 - PERDEU
+O novo governo fracassa em todas as suas promessas. A população, enfurecida, o vê como responsável por toda a decadência do país. Revoltas populares surgem, e você é obrigado a viver isolado e desprezado, sem a chance de corrigir os erros que cometeu

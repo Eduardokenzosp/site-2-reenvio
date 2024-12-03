@@ -1,0 +1,69 @@
+body{
+  font-family: "Jaro", sans-serif;
+  background-color: rgb(223,22,22);
+  color: rgb(39,8,17);
+  display:flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  margen: 0;
+  font-size: 35px;
+  background-image: url("fundo.png") ;
+  background-size: cover;
+  background-position:center;
+  background-attachment: fixed;
+  font-weith: 800;
+  text-shadow: 4px 4px 3px rgb(233,23,23);
+    
+    
+}
+footer{
+  font-family: "Geist Mono", monospace;
+  color: white;
+  font-weight: 500;
+  font-size: 25px;
+  
+}
+footer a{
+  text-decoration:none;
+  color: white;
+}
+footer a:hover{
+  color:red;
+  text-decoration: underline;
+}
+button{
+ font-family: "Doto", serif;
+  background-color: brown;
+  border: 2px solid brown;
+  color:white;
+  font-size: 25px;
+  border-radius: 200px;
+  margin: 20px;
+  padding: 0.5em;
+  box-shadow: 3px 3px 4px black;
+  
+  
+}
+button:hover {
+  background-color: yellow;
+  border: 2px solid yellow;
+  color: black;
+  
+}
+main{
+  max-width: 90%;
+  text-align: center;
+    padding: 20px;
+  flex: 1;
+}
+img{
+  max-width: 90%;
+
+}
+.passo{
+  display:none;
+}
+.passo.ativo{
+  display: block;
+}

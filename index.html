@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="pt-br"
+  <head>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.11.1/p5.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.11.1/addons/p5.sound.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <meta charset="utf-8" />
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Doto:wght@100..900&family=Edu+AU+VIC+WA+NT+Arrows:wght@400..700&family=Geist+Mono:wght@100..900&display=swap" rel="stylesheet">
+  </head>
+  <body>
+    <main>
+      
+<div class="passo ativo" id= "passo-0">
+  <img src="logo.png">
+  <p> Você é Moluscão dos Nove Dedos, um ex-metalúrgico aposentado que passou a vida inteira nas fábricas, nas greves e nas ruas, defendendo os direitos dos trabalhadores e sonhando com uma revolução socialista para transformar o país. Uma cicatriz profunda marca sua mão, onde deveria estar seu dedo mindinho – perdido em um acidente de trabalho que lhe rendeu um apelido e um ódio fervoroso pelas elites.
+           Depois de décadas de luta, você finalmente alcança o poder com o apoio do povo, prometendo justiça social e igualdade. No início, seu governo promove grandes mudanças: políticas de redistribuição de renda, reforma agrária, educação e saúde para todos. Mas, à medida que o tempo passa, a ganância começa a crescer dentro de você. O luxo e a riqueza se tornam tentadores demais para resistir, e você se vê cada vez mais envolvido em esquemas de corrupção, desviando dinheiro público e enriquecendo à custa daqueles que jurou proteger. Sua transformação faz com que a economia entre em colapso. As dívidas do governo se acumulam, a inflação dispara, e o povo, antes seu aliado, começa a passar fome. As ruas que um dia ecoaram seu nome agora clamam por sua queda. A tensão cresce, e o país está à beira de uma guerra civil, com grupos organizados se levantando para tirar você do poder à força. Agora, em um momento de desespero, você encara uma escolha crucial: tentar recuperar a confiança do povo ou reforçar seu poder com medidas ainda mais autoritárias para garantir sua permanência. </p>
+    
+  <button class="proximo" data-proximo="1"> Você decide tentar reconquistar a confiança do povo, implementando uma série de reformas e confessando seus erros. </button>
+    
+  <button class="proximo" data-proximo="2"> Você opta por medidas autoritárias, aumentando a repressão e silenciando qualquer oposição. </button>
+    </div>
+    
+         <div class="passo" id= "passo-1">
+  <img src="logo.png">
+  <p>
+Você realiza uma coletiva de imprensa para reconhecer seus erros e prometer mudanças. A população, dividida entre a desconfiança e a esperança, observa atentamente seus próximos passos. Alguns líderes de movimentos sociais demonstram abertura ao diálogo, mas exigem ações concretas.
+  </p>
+    
+  <button class="proximo" data-proximo="3"> Você propõe uma nova eleição para o governo, renunciando ao cargo em favor da transparência.</button>
+    
+  <button class="proximo" data-proximo="4"> Você convida líderes sociais para formar um conselho de governo e ajuda a implementar políticas que beneficiem a população.</button>
+       </div>
+      
+          <div class="passo" id="passo-2">
+<img src="logo.png">
+      <p>
+        Em uma tentativa de manter seu controle, você institui uma polícia secreta e aumenta a repressão contra aqueles que se manifestam contra o governo. As prisões ficam abarrotadas, e a liberdade de expressão é drasticamente reduzida. Mas a resistência se intensifica, e líderes oposicionistas começam a planejar um golpe contra o regime
+      </p>
+      
+      <button class="proximo" data-proximo="5">
+        Você decreta estado de emergência, mobilizando o exército para conter os rebeldes com força total.
+      </button>
+      
+      <button class="proximo" data-proximo="6">
+         Você decide fazer um acordo com um dos grupos oposicionistas, oferecendo-lhes parte do poder em troca de apoio.
+      </button>
+      </div>
+      
+        <div class="passo" id="passo-5">
+<img src="logo.png">
+      <p>
+        O estado de emergência transforma o país em um verdadeiro campo de guerra. As ruas ficam dominadas por soldados e barricadas, e a violência se torna a norma. O país mergulha no caos, com inúmeros civis sofrendo as consequências.
+      </p>
+      
+      <button class="proximo" data-proximo="7">
+         O exército consegue sufocar a rebelião, e você permanece no poder, mas à custa de uma sociedade traumatizada e destruída.
+      </button>
+      
+      <button class="proximo" data-proximo="8">
+         A oposição, apoiada por forças internacionais, derruba seu governo, e você é preso e julgado por crimes contra o povo.
+
+      </button>
+      </div>
+      
+      <div class="passo" id="passo-6">
+<img src="perdeu.png">
+      <p>
+        A tentativa de acordo com a oposição se torna um desastre. O grupo oposicionista usa a trégua para reorganizar suas forças, e logo uma revolta armada toma conta do país. Você é deposto e exilado, e sua imagem se torna um símbolo de traição e fracasso.
+      </p>
+      
+      <button class="proximo" data-proximo="0">
+        Reiniciar? 🕹
+      </button>
+
+      </div>
+    
+        <div class="passo" id="passo-7">
+<img src="ganhou.png">
+      <p>
+        Ao sufocar a rebelião, você permanece no poder, mas o país se encontra devastado. A economia está em ruínas, e o sofrimento da população é evidente. Sua liderança é marcada pela repressão, e, embora tenha mantido seu posto, sua imagem fica marcada como um ditador que destruiu o próprio país.
+      </p>
+      
+      <button class="proximo" data-proximo="0">
+           Reiniciar? 🕹
+      </button>
+    
+      </div>
+      
+        <div class="passo" id="passo-8">
+<img src="logo.png">
+      <p>
+        Após uma tentativa fracassada de consolidar seu poder, você retorna à posição inicial, enfrentando novamente a escolha entre tentar reformar o governo ou seguir por um caminho de opressão.
+
+      </p>
+      
+      <button class="proximo" data-proximo="3">
+        Você propõe uma nova eleição para o governo, renunciando ao cargo em favor da transparência.
+      </button>
+      
+      <button class="proximo" data-proximo="4">
+         Você convida líderes sociais para formar um conselho de governo e ajuda a implementar políticas que beneficiem a população.
+      </button>
+      </div>
+      
+        <div class="passo" id="passo-3">
+<img src="logo.png">
+      <p>
+        Você renuncia ao cargo, permitindo uma eleição democrática. Embora muitos ainda desconfiem de suas intenções, a população começa a acreditar na possibilidade de mudança. Um novo líder é eleito, e você tenta reconstruir sua imagem pública.
+      </p>
+      
+      <button class="proximo" data-proximo="9">
+         O novo governo inicia reformas que ajudam a recuperar a economia e melhorar as condições de vida, e você é lembrado como alguém que reconheceu seus erros.
+      </button>
+      
+      <button class="proximo" data-proximo="10">
+        O novo governo fracassa, e o caos retorna, deixando o país em uma situação ainda pior, com você responsabilizado pelo desastre.
+      </button>
+      </div>
+      
+    <div class="passo" id="passo-4">
+<img src="ganhou.png">
+      <p>
+        Com a criação do conselho de governo, a população sente que há um caminho para reverter a crise. Com a ajuda de líderes sociais, o país começa a implementar políticas sustentáveis e de longo prazo, recuperando a economia aos poucos. Você consegue restaurar parte da confiança do povo e mantém um papel simbólico no governo, sendo lembrado como alguém que soube reconhecer e corrigir seus erros.
+      </p>
+      
+      <button class="proximo" data-proximo="0">
+           Reiniciar? 🕹
+      </button>
+      
+      </div>
+      
+        <div class="passo" id="passo-10">
+<img src="perdeu.png">
+      <p>
+        O novo governo fracassa em todas as suas promessas. A população, enfurecida, o vê como responsável por toda a decadência do país. Revoltas populares surgem, e você é obrigado a viver isolado e desprezado, sem a chance de corrigir os erros que cometeu
+      </p>
+      
+      <button class="proximo" data-proximo="0">
+         Reiniciar? 🕹
+      </button>
+      </div>
+      
+            <div class="passo" id="passo-9">
+<img src="ganhou.png">
+      <p>
+        O novo governo consegue colocar o país de volta nos trilhos, com investimentos em educação e saúde. Você é lembrado como alguém que, apesar dos erros, tomou a decisão correta ao renunciar. Sua imagem se reabilita, e você é visto como um exemplo de redenção.
+
+      </p>
+      
+      <button class="proximo" data-proximo="0">
+           Reiniciar? 🕹
+      </button>
+      
+
+      </div>
+    
+  </main>
+  
+    <footer> 
+      <p> Criado por <a href="https://github.com/eduardokenzosp/">Eduardo Kenzo</a> </p>
+    </footer>
+    <script src="sketch.js"></script>
+  </body>
+</html>
